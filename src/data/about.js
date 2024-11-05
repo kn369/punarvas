@@ -5,19 +5,19 @@ const data = [
 	},
 	{
 		id: 2,
-		name: "Vasavi",
+		name: "Sejal",
 	},
 	{
 		id: 3,
-		name: "Sai",
+		name: "Geeta",
 	},
 	{
 		id: 4,
-		name: "Sri",
+		name: "Poojan Patel",
 	},
 	{
 		id: 5,
-		name: "Vidya",
+		name: "Krish Nariya",
 	},
 ];
 
